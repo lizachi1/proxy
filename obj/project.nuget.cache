@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMMvRsMvQWZki4bRQOTngIR2SDV02en6fAkjpUsc2t/czwE25oQUr0mcfBAIdKH6lNCn+XHKnssOo42z6pne3g==",
+  "success": true,
+  "projectFilePath": "D:\\Рабочий стол\\proxyPattern\\proxyPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Елизавета\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
